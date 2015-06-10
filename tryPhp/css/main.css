@@ -1,0 +1,91 @@
+body
+{
+background: #888888;
+}
+.header
+{
+width: 80%;
+height: 200px;
+margin-left: 10%;
+margin-right: 10%;
+margin-top: -10%;
+background: #FFFFFF;
+border-radius: 0px 0px 20px 20px;
+padding: 5px 5px;
+}
+#leftmenu
+{
+position: absolute;
+width: 9%;
+margin-top: 0px;
+margin-left: 0%;
+margin-right: 91%;
+background: #FFFFFF;
+border-radius: 0px 20px 20px 0px;
+padding: 5px 5px;
+}
+#login
+{
+width: 100%;
+}
+#password
+{
+width: 100%;
+}
+#rightmenu
+{
+position: absolute;
+width: 10%;
+margin-top: 0px;
+margin-left: 91%;
+margin-right: 0%;
+
+border-radius: 20px 0px 0px 20px;
+padding: 5px 5px;
+}
+
+#content
+{
+
+width: 80%;
+min-height: 800px;
+background: #FFFFFF;
+margin-top: 0px;
+margin-left: 10%;
+margin-right: 10%;
+background: GREEN;
+border-radius: 20px 20px 20px 20px;
+background: #FFFFFF;
+padding: 5px 5px;
+}
+
+#footer
+{
+bottom: -10;
+width: 80%;
+height: 200px;
+border-radius: 20px 20px 0px 0px;
+margin-left: 10%;
+margin-right: 10%;
+margin-bottom: -10%;
+background: YELLOW;
+padding: 5px 5px;
+background: #FFFFFF;
+}
+
+table
+{
+margin: auto;
+ border: 1px solid black; 
+   border-collapse: collapse; 
+}
+td
+{
+ border: 1px solid black; 
+  border-collapse: collapse; 
+}
+th
+{
+ border: 1px solid black; 
+  border-collapse: collapse; 
+}
