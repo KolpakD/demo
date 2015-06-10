@@ -1,0 +1,38 @@
+/*—тили границ всех используемых таблиц */
+table
+{
+border-width: 2px;
+border-style: solid;
+border-collapse: collapse;
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+}
+td
+{
+border-width: 2px;
+border-style: solid;
+}
+th
+{
+border-width: 2px;
+border-style: solid;
+}
+
+/* ................. */
+
+
+number
+{
+width: 5px;
+}
+
+.diss
+{
+display: none;
+}
+
+.viss
+{
+display: block;
+}

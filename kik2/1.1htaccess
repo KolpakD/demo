@@ -1,0 +1,5 @@
+php_value error_reporting 1
+php_value file_uploads 1
+
+
+E_ALL & ~E_NOTICE
